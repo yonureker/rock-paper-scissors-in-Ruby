@@ -14,6 +14,4 @@ Requirements:
 Additional features:
 
 * Check player or AI's score during the game.
-* Reset game score
-* End game early and declare the winner.
 
